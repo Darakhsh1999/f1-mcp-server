@@ -183,10 +183,6 @@ HTML_INTRODUCTION = f"""
     <p>Quick demo of the MCP server using Claude Desktop.</p>
     <iframe width="640" height="399" src="https://www.loom.com/embed/4ef9cf2e691143db8e5d807a1aef9672?sid=2acf26b1-49a0-4157-ac6b-3fdf08be8ea2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-    <h2>Longer demo and yap sesh (Gradio UI / mcp_client.py / Claude Desktop)</h2>
-    <p>More in-depth demo of interacting with the MCP server using Gradio UI, mcp_client.py and Claude Desktop. Swedish accent warning, watch on 1.5x to stay sane</p>
-    <iframe width="640" height="399" src="https://www.loom.com/embed/bfa4e3e5d70d47f9bce406a0714893fd?sid=63dfe49d-09db-4242-ac86-ec4ba9cfec34" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
     <h2>Architecture (Created with Excalidraw and icons from Lobehub)</h2>
     <img src="data:image/png;base64,{IMAGE_BASE64}" width="640" />
 
