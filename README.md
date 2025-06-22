@@ -6,8 +6,8 @@ This project defines a MCP server for Formula 1 data, providing fans, analysts, 
 
 [![Demo Video](https://cdn.loom.com/sessions/thumbnails/4ef9cf2e691143db8e5d807a1aef9672-3f6299cea3ac0fd3-full-play.gif)](https://www.loom.com/embed/4ef9cf2e691143db8e5d807a1aef9672?sid=6dabbf2e-71ba-406d-ad86-8b480a29e222)
 
-### Key Features
-The interface is organized into several tabs, each dedicated to a specific type of F1 data:
+### Gradio Key Features
+The interface is organized into several `Gradio` tabs, each dedicated to a specific type of F1 data:
 
 *   **Championship Standings:** View final driver and constructor championship standings for any season from 1950 to the present.
 *   **Event Information:** Get detailed information for any Grand Prix, including schedules and circuit details.
