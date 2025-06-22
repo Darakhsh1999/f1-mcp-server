@@ -1,0 +1,142 @@
+{
+  "Max Verstappen": {
+    "birth_date": "1997-09-30",
+    "number": 1,
+    "team": "Red Bull Racing",
+    "nationality": "🇳🇱 Netherlands",
+    "summary": "Son of former F1 driver Jos Verstappen, Max was destined for racing greatness from a young age. He made history by becoming the youngest F1 driver at 17 and the youngest race winner at 18. His aggressive yet calculated driving style has earned him multiple World Championships with Red Bull Racing, making him one of the most dominant drivers in the sport's history."
+  },
+  "Liam Lawson": {
+    "birth_date": "2002-02-11",
+    "number": 30,
+    "team": "Racing Bulls",
+    "nationality": "🇳🇿 New Zealand",
+    "summary": "Hailing from New Zealand, Lawson quickly rose through the ranks of single-seater racing, impressing in Formula 2 and DTM. His composed performances as a reserve driver for Red Bull earned him a race seat, showcasing his ability to adapt quickly to different racing disciplines and challenging conditions."
+  },
+  "Charles Leclerc": {
+    "birth_date": "1997-10-16",
+    "number": 16,
+    "team": "Ferrari",
+    "nationality": "🇲🇨 Monaco",
+    "summary": "A product of the Ferrari Driver Academy, Leclerc's journey to F1 was marked by personal tragedy and triumph. The Monegasque driver won back-to-back championships in GP3 and F2 before joining Sauber and then Ferrari. Known for his qualifying pace and racecraft, he became Ferrari's leading driver and a consistent championship contender."
+  },
+  "Lewis Hamilton": {
+    "birth_date": "1985-01-07",
+    "number": 44,
+    "team": "Ferrari",
+    "nationality": "🇬🇧 United Kingdom",
+    "summary": "One of the most successful drivers in F1 history, Hamilton's journey began in karting where he was signed by McLaren at age 13. The seven-time world champion made history as the first black driver in F1 and holds numerous records, including most race wins and pole positions. His move to Ferrari in 2025 marked a new chapter in his legendary career."
+  },
+  "George Russell": {
+    "birth_date": "1998-02-15",
+    "number": 63,
+    "team": "Mercedes",
+    "nationality": "🇬🇧 United Kingdom",
+    "summary": "Dubbed 'Mr. Saturday' for his exceptional qualifying performances, Russell's path to F1 was paved with success in junior categories, including winning the GP3 and F2 championships in consecutive years. After impressing at Williams, he earned a Mercedes seat, where he continues to showcase his speed and racecraft against the sport's best."
+  },
+  "Andrea Kimi Antonelli": {
+    "birth_date": "2006-08-25",
+    "number": 12,
+    "team": "Mercedes",
+    "nationality": "🇮🇹 Italy",
+    "summary": "The youngest driver on the grid, Antonelli is one of the most exciting prospects in motorsport. After dominating the junior categories with multiple championships, he made an early jump to F1 with Mercedes, skipping F2. His rapid progression and natural talent have drawn comparisons to Max Verstappen's meteoric rise in the sport."
+  },
+  "Lando Norris": {
+    "birth_date": "1999-11-13",
+    "number": 4,
+    "team": "McLaren",
+    "nationality": "🇬🇧 United Kingdom",
+    "summary": "Known for his charismatic personality and raw speed, Norris rose through the ranks of karting and single-seaters before joining McLaren. The British driver has developed into one of F1's brightest talents, known for his consistency, racecraft, and entertaining social media presence. His performances have made him a fan favorite and a future championship contender."
+  },
+  "Oscar Piastri": {
+    "birth_date": "2001-04-06",
+    "number": 81,
+    "team": "McLaren",
+    "nationality": "🇦🇺 Australia",
+    "summary": "The Australian sensation made history by winning three consecutive junior championships (Formula Renault, F3, and F2) before his F1 debut. After a year on the sidelines as Alpine's reserve driver, Piastri joined McLaren where he quickly established himself as one of the grid's most promising talents, known for his technical feedback and race intelligence."
+  },
+  "Fernando Alonso": {
+    "birth_date": "1981-07-29",
+    "number": 14,
+    "team": "Aston Martin",
+    "nationality": "🇪🇸 Spain",
+    "summary": "A two-time World Champion, Alonso is known for his incredible racecraft and fierce determination. The Spaniard made his F1 debut with Minardi in 2001 before winning back-to-back titles with Renault. His career has seen him race for top teams including Ferrari and McLaren, and he continues to be one of the most respected and experienced drivers on the grid with Aston Martin."
+  },
+  "Lance Stroll": {
+    "birth_date": "1998-10-29",
+    "number": 18,
+    "team": "Aston Martin",
+    "nationality": "🇨🇦 Canada",
+    "summary": "The son of billionaire Lawrence Stroll, Lance has worked hard to prove himself beyond his family connections. After winning the European F3 championship, he made history as the first Canadian to take an F1 podium in the wet at Baku 2017. His smooth driving style and wet-weather prowess have earned him respect in the paddock."
+  },
+  "Pierre Gasly": {
+    "birth_date": "1996-02-07",
+    "number": 10,
+    "team": "Alpine",
+    "nationality": "🇫🇷 France",
+    "summary": "Gasly's journey to F1 was marked by success in junior categories, including winning the 2016 GP2 championship. After a challenging stint at Red Bull, he found his stride at AlphaTauri, securing a memorable victory at Monza in 2020. The Frenchman is known for his emotional personality and strong work ethic."
+  },
+  "Jack Doohan": {
+    "birth_date": "2003-01-20",
+    "number": 7,
+    "team": "Alpine",
+    "nationality": "🇦🇺 Australia",
+    "summary": "Son of motorcycle legend Mick Doohan, Jack has carved his own path in four-wheel racing. The Australian impressed in F2 with multiple race wins and pole positions before earning his F1 debut with Alpine. Known for his technical feedback and smooth driving style, he represents the next generation of Australian racing talent."
+  },
+  "Esteban Ocon": {
+    "birth_date": "1996-09-17",
+    "number": 31,
+    "team": "Haas",
+    "nationality": "🇫🇷 France",
+    "summary": "Ocon's journey to F1 was marked by financial challenges before catching the eye of Mercedes' junior program. After winning the 2015 GP3 series and serving as a reserve driver, he made his debut with Manor Racing. The Frenchman is known for his consistency, racecraft, and memorable battles with teammate Sergio Perez during their Force India days."
+  },
+  "Oliver Bearman": {
+    "birth_date": "2005-05-08",
+    "number": 87,
+    "team": "Haas",
+    "nationality": "🇬🇧 United Kingdom",
+    "summary": "One of the youngest drivers on the grid, Bearman made a name for himself with dominant performances in Italian F4 and Formula 3. The British driver's rapid progression through the junior categories earned him a spot in Ferrari's Driver Academy and a race seat with Haas. His technical understanding and mature approach belie his young age."
+  },
+  "Yuki Tsunoda": {
+    "birth_date": "2000-05-11",
+    "number": 22,
+    "team": "Red Bull Racing",
+    "nationality": "🇯🇵 Japan",
+    "summary": "The first Japanese driver in F1 since 2014, Tsunoda's rapid rise through the ranks was supported by Honda's young driver program. After finishing third in F2, he made his F1 debut with AlphaTauri. Known for his aggressive driving style and passionate radio messages, Tsunoda has developed into a consistent points scorer for Racing Bulls."
+  },
+  "Isack Hadjar": {
+    "birth_date": "2004-09-28",
+    "number": 6,
+    "team": "Racing Bulls",
+    "nationality": "🇫🇷 France",
+    "summary": "Hadjar emerged as one of the most exciting young talents in junior single-seater racing, impressing in F3 before moving up to F2. The French-Algerian driver's smooth driving style and natural speed earned him a spot in Red Bull's junior program. His rapid adaptation to different racing categories has marked him as a future star."
+  },
+  "Alexander Albon": {
+    "birth_date": "1996-03-23",
+    "number": 23,
+    "team": "Williams",
+    "nationality": "🇹🇭 Thailand",
+    "summary": "Born to a British father and Thai mother, Albon's journey to F1 included being dropped by Red Bull's junior program before fighting his way back through GP3 and F2. After strong performances with Toro Rosso and Red Bull, he found a home at Williams where his consistent point-scoring has made him team leader. His smooth driving style and technical feedback are among his greatest strengths."
+  },
+  "Carlos Sainz Jr": {
+    "birth_date": "1994-09-01",
+    "number": 55,
+    "team": "Williams",
+    "nationality": "🇪🇸 Spain",
+    "summary": "Son of rally legend Carlos Sainz, the Spaniard has forged his own successful career in F1. After learning his craft at Toro Rosso, he impressed at Renault, McLaren, and Ferrari before moving to Williams. Known for his consistency and intelligence behind the wheel, Sainz is regarded as one of the most complete drivers on the grid."
+  },
+  "Nico Hülkenberg": {
+    "birth_date": "1987-08-19",
+    "number": 27,
+    "team": "Kick Sauber",
+    "nationality": "🇩🇪 Germany",
+    "summary": "The experienced German driver holds the record for most F1 starts without a podium. After winning titles in A1GP and GP2, Hülkenberg made his F1 debut with Williams in 2010. Known for his qualifying prowess and technical feedback, he returned to F1 with Haas before moving to Kick Sauber, bringing valuable experience to the team."
+  },
+  "Gabriel Bortoleto": {
+    "birth_date": "2004-10-14",
+    "number": 5,
+    "team": "Kick Sauber",
+    "nationality": "🇧🇷 Brazil",
+    "summary": "The latest Brazilian talent to reach F1, Bortoleto made waves by winning the 2023 F3 championship in dominant fashion. His smooth driving style and racecraft earned him a spot in the McLaren young driver program before securing a race seat with Kick Sauber. The young Brazilian carries the hopes of a nation that has produced legends like Senna, Piquet, and Massa."
+  }
+}

@@ -1,23 +1,56 @@
+---
+title: F1 MCP Server
+emoji: 🏎️
+colorFrom: red
+colorTo: gray
+sdk: gradio
+sdk_version: 5.32.0
+app_file: app.py
+pinned: true
+license: apache-2.0
+short_description: 'Universal F1 data retrieval and agentic race strategy.'
+video_url: https://www.loom.com/share/bfa4e3e5d70d47f9bce406a0714893fd?sid=634b543c-684e-4872-b926-14cbb56396de
+tags:
+  - 'mcp-server-track'
+  - 'agent-demo-track'
+---
 
 
-## Notes
+## MCP Server
+The MCP server is defined inside `app.py` and is hosted on HuggingFace spaces using the Gradio template.
 
-FastF1 does not provide any API to perform real-time processing for a current session. However it does provide a nice API for past sessions.
-For real-time analysis one should instead opt for the API provided by OpenF1
+## MCP Client
+The MCP client and AI agent is defined inside `mcp_client.py` and allows interaction with the MCP server through server side events (SSE) transport.
 
 
-## TODO
-- check if there is a current session right now. If so which one ?
-- upcoming event
-- get driver historical information
-- get race information
-- get starting grid
-- get current race order for top n drivers (n=20)
-- WCC standings
-- WDC standings
-- Compare 2 drivers
-- Get current tyre compound
-- Get current tyre age
-- Get number of pit stops
-- Get fastest lap and by who
-- Get drivers fastest lap
+## MCP configuration file
+For MCP clients that support SSE transport (for Claude Desktop, see below), the following configuration can be used:
+
+```json
+{
+  "mcpServers": {
+    "gradio": {
+      "url": "https://agents-mcp-hackathon-f1-mcp-server.hf.space/gradio_api/mcp/sse"
+    }
+  }
+}
+```
+
+For Claude Desktop, the following configuration can instead be used, but make sure you have Node.js installed:
+
+```json
+{
+  "mcpServers": {
+    "gradio": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://agents-mcp-hackathon-f1-mcp-server.hf.space/gradio_api/mcp/sse",
+        "--transport",
+        "sse-only"
+      ]
+    }
+  }
+}
+```
+

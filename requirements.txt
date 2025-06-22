@@ -1,0 +1,6 @@
+huggingface_hub==0.25.2
+gradio[mcp]
+smolagents
+fastf1
+matplotlib
+numpy

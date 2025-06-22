@@ -1,0 +1,82 @@
+{
+  "McLaren": {
+    "team_name": "McLaren Formula 1 Team",
+    "chassis": "MCL39",
+    "power_unit": "Mercedes",
+    "base": "Woking, United Kingdom",
+    "team_principal": "Andrea Stella",
+    "drivers": ["Lando Norris", "Oscar Piastri"]
+  },
+  "Ferrari": {
+    "team_name": "Scuderia Ferrari HP",
+    "chassis": "SF-25",
+    "power_unit": "Ferrari",
+    "base": "Maranello, Italy",
+    "team_principal": "Frédéric Vasseur",
+    "drivers": ["Charles Leclerc", "Lewis Hamilton"]
+  },
+  "Red Bull Racing": {
+    "team_name": "Oracle Red Bull Racing",
+    "chassis": "RB21",
+    "power_unit": "Honda RBPT",
+    "base": "Milton Keynes, United Kingdom",
+    "team_principal": "Christian Horner",
+    "drivers": ["Max Verstappen", "Yuki Tsunoda"]
+  },
+  "Mercedes": {
+    "team_name": "Mercedes-AMG Petronas Formula One Team",
+    "chassis": "W16",
+    "power_unit": "Mercedes",
+    "base": "Brackley, United Kingdom",
+    "team_principal": "Toto Wolff",
+    "drivers": ["George Russell", "Andrea Kimi Antonelli"]
+  },
+  "Aston Martin": {
+    "team_name": "Aston Martin Aramco Formula One Team",
+    "chassis": "AMR25",
+    "power_unit": "Mercedes",
+    "base": "Silverstone, United Kingdom",
+    "team_principal": "Andy Cowell",
+    "drivers": ["Fernando Alonso", "Lance Stroll"]
+  },
+  "Alpine": {
+    "team_name": "BWT Alpine F1 Team",
+    "chassis": "A525",
+    "power_unit": "Renault",
+    "base": "Enstone, United Kingdom",
+    "team_principal": "Oliver Oakes",
+    "drivers": ["Pierre Gasly", "Jack Doohan"]
+  },
+  "Haas": {
+    "team_name": "MoneyGram Haas F1 Team",
+    "chassis": "VF-25",
+    "power_unit": "Ferrari",
+    "base": "Kannapolis, United States",
+    "team_principal": "Ayao Komatsu",
+    "drivers": ["Esteban Ocon", "Oliver Bearman"]
+  },
+  "Racing Bulls": {
+    "team_name": "Visa Cash App Racing Bulls",
+    "chassis": "VCARB 02",
+    "power_unit": "Honda RBPT",
+    "base": "Faenza, Italy",
+    "team_principal": "Laurent Mekies",
+    "drivers": ["Liam Lawson", "Isack Hadjar"]
+  },
+  "Williams": {
+    "team_name": "Williams Racing",
+    "chassis": "FW47",
+    "power_unit": "Mercedes",
+    "base": "Grove, United Kingdom",
+    "team_principal": "James Vowles",
+    "drivers": ["Alexander Albon", "Carlos Sainz"]
+  },
+  "Kick Sauber": {
+    "team_name": "Stake F1 Team Kick Sauber",
+    "chassis": "C45",
+    "power_unit": "Ferrari",
+    "base": "Hinwil, Switzerland",
+    "team_principal": "Mattia Binotto",
+    "drivers": ["Nico Hülkenberg", "Gabriel Bortoleto"]
+  }
+}
